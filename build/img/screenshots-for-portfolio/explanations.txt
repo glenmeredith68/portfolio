@@ -1,0 +1,6 @@
+Mobile Portfolio
+Version 2 Explanation
+I got rid of the Hero image since I felt it was a little dated and I wanted to make the portfolio more similar to other designers' portfolios I had seen so that when hiring managers or whoever came to view it the navigation and layout would be familiar to them. I also changed the menu button to give it a little flair.
+
+Version 3 Explanation
+What do I want visitors to my site to do? I want them to see my work and projects. I also want them to know who I am and what I do. And I want them to have a way to contact me with feedback or offers to connect and work together. So I got rid of the CTA button altogether, and decided to put my past work up front. I made the logo a lot bigger and included my named alongside it. And the invitation ot connect is blue, signifying a clickable link.

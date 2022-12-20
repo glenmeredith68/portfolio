@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+    --blue:rgb(65,110,177);
+}
+
+.radial-blue {
+    background: radial-gradient(lightyellow, skyblue);
+}
+.bg-custom-light{
+    background: rgb(254, 250, 250);
+}
+.text-custom-light{
+    color: rgb(254, 250, 250);
+}
+.text-custom-blue{
+    color: rgb(65, 110, 177);
+}
+.border-custom-blue{
+    border-color: rgb(65, 110, 177);
+}
+.bg-custom-blue{
+    background: var(--blue);
+}
+.shadow-custom-blue {
+    --tw-shadow-color:red;
+}
+
+.card {
+    box-shadow: 2px 2px 5px var(--blue);
+}
